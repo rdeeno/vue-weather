@@ -35,7 +35,7 @@ export default {
     return {
       temp: "26",
       info: [],
-      city: "Chisinau",
+      city: "Moscow",
       status: "Sunny",
       date: "",
       dataConv: '',
